@@ -46,14 +46,12 @@ A GUI has been made using PYQT to make the things clear to the user
 <br />
 <br />
 ![1685983508650](https://github.com/Omar-Saeed-99/ChessRobotArm/assets/87039861/5d92925a-837c-4bbd-9b9c-5f8ea22a871e)
+<br />
+<br />
 
-<br />
-<br />
 ## Real Robot
 <br />
 <br />
 ![1685983496842](https://github.com/Omar-Saeed-99/ChessRobotArm/assets/87039861/327e6992-b9df-466b-8b58-8a72d1582669)
-
-
 <br />
 <br />
