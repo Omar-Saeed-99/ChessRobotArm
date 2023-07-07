@@ -1,0 +1,14 @@
+<launch>
+
+  <include file="$(find gazebo_ros)/launch/empty_world.launch"> </include>
+
+  <param name="robot_description" textfile="$(find chess_rob)/urdf/chess_rob.urdf"/>
+
+  <node 
+  name="urdf_spawner" pkg="gazebo_ros" type="spawn_model" 
+  args="-urdf -param robot_description -model chess_rob -x 0 -y 0 -z 0"
+  respawn="false" output="screen" />
+
+
+
+</launch>
