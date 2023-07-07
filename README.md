@@ -38,11 +38,10 @@ I used the opencv Chess corners detections do know the 64 square and map the rea
 A GUI has been made using PYQT to make the things clear to the user
 <br />
 <br />
-
 ![Screenshot from 2023-05-27 11-49-51](https://github.com/Omar-Saeed-99/ChessRobotArm/assets/87039861/fd14573b-823d-4326-a15a-265203bf76ff)
 <br />
-
 <br />
+
 ## SolidWorks design 
 <br />
 <br />
