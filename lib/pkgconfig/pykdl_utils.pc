@@ -1,8 +1,0 @@
-prefix=/home/omar/mambaforge/envs/ros_env/gp_ws/devel
-
-Name: pykdl_utils
-Description: Description of pykdl_utils
-Version: 0.1.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
