@@ -1,0 +1,8 @@
+prefix=/home/omar/mambaforge/envs/ros_env/gp_ws/devel
+
+Name: chess_rob
+Description: Description of chess_rob
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
